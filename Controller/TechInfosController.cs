@@ -22,7 +22,7 @@ public class TechInfosController
     // }
 
     
-    private IQueryable<ApplicabilityDTO> Get<ApplicabilityDTO>(string[]? codes = null) where ApplicabilityDTO: BaseDto, new()
+    public IQueryable<ApplicabilityDTO> Get(string[]? codes = null) 
     {
         // Заготовка под фильтр
         Expression<Func<ApplicabilityDTO, bool>> filter = null;
@@ -31,14 +31,14 @@ public class TechInfosController
             filter = x => codes.Contains(x.ProductCode);
     
         // Делаем заготовку запроса (это еще не сам запрос)
-        var query = _applicabilityDtos.AsEnumerable();
+        var query = _applicabilityDtos.AsQueryable();
             // .Set<ApplicabilityDTO>().AsQueryable();
     
         // Если фильтр был ранее определен, то применяем его к заготовке
         if (filter != null)
-            query = query.Where(query);
+            query = query.Where(filter);
     
-        return (IQueryable<ApplicabilityDTO>) query;
+        return query;
         
     }
 }

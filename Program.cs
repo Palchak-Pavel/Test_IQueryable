@@ -34,6 +34,12 @@ namespace TestConsoleApp1
             //     Console.WriteLine(i);
             // }
 
+            var controller = new TechInfosController();
+
+            var codes = new[] {"av105"};
+            var result1 = controller.Get().ToArray();
+            var result2 = controller.Get(codes: new []{"av105"}).ToArray();
+
         }
     }
 }
