@@ -1,0 +1,17 @@
+C:\git\TestConsoleApp1\TestConsoleApp1\bin\Debug\net7.0\TestConsoleApp1.exe
+C:\git\TestConsoleApp1\TestConsoleApp1\bin\Debug\net7.0\TestConsoleApp1.deps.json
+C:\git\TestConsoleApp1\TestConsoleApp1\bin\Debug\net7.0\TestConsoleApp1.runtimeconfig.json
+C:\git\TestConsoleApp1\TestConsoleApp1\bin\Debug\net7.0\TestConsoleApp1.dll
+C:\git\TestConsoleApp1\TestConsoleApp1\bin\Debug\net7.0\TestConsoleApp1.pdb
+C:\git\TestConsoleApp1\TestConsoleApp1\bin\Debug\net7.0\System.Linq.Dynamic.dll
+C:\git\TestConsoleApp1\TestConsoleApp1\obj\Debug\net7.0\TestConsoleApp1.csproj.AssemblyReference.cache
+C:\git\TestConsoleApp1\TestConsoleApp1\obj\Debug\net7.0\TestConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\TestConsoleApp1\TestConsoleApp1\obj\Debug\net7.0\TestConsoleApp1.AssemblyInfoInputs.cache
+C:\git\TestConsoleApp1\TestConsoleApp1\obj\Debug\net7.0\TestConsoleApp1.AssemblyInfo.cs
+C:\git\TestConsoleApp1\TestConsoleApp1\obj\Debug\net7.0\TestConsoleApp1.csproj.CoreCompileInputs.cache
+C:\git\TestConsoleApp1\TestConsoleApp1\obj\Debug\net7.0\TestConsoleApp1.csproj.CopyComplete
+C:\git\TestConsoleApp1\TestConsoleApp1\obj\Debug\net7.0\TestConsoleApp1.dll
+C:\git\TestConsoleApp1\TestConsoleApp1\obj\Debug\net7.0\refint\TestConsoleApp1.dll
+C:\git\TestConsoleApp1\TestConsoleApp1\obj\Debug\net7.0\TestConsoleApp1.pdb
+C:\git\TestConsoleApp1\TestConsoleApp1\obj\Debug\net7.0\TestConsoleApp1.genruntimeconfig.cache
+C:\git\TestConsoleApp1\TestConsoleApp1\obj\Debug\net7.0\ref\TestConsoleApp1.dll
